@@ -1,2 +1,2 @@
 # matterbot
-Mattermost Bot for Api v4
+Mattermost bot for API v4
